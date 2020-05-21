@@ -5,6 +5,6 @@ class Teacher < User
   def teach
     KNOWLEDGE[1]
   end
-    
+
 
 end
